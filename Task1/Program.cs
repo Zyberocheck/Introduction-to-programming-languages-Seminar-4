@@ -26,5 +26,5 @@ int number = Prompt(); // int a = Prompt(); -- было так. что за a? �
 Console.WriteLine(SumNums(number)); // Console.WriteLine(SumNums(a));                                                                               
 
 
-54 минута
+// 54 минута
 
