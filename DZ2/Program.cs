@@ -42,7 +42,7 @@ int SumNumI(int numberI)
 
 Console.WriteLine(SumNumI(numberI));
 
-
+// это... было... сложно...!!!
 
 
     
