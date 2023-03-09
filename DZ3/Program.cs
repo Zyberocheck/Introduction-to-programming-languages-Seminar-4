@@ -28,3 +28,4 @@ int[] newarray = CreateArray(size);
 Console.WriteLine($"[{String.Join(", ", newarray)}]");
 
 // Печалька конечно что задания так пересеклись.
+
