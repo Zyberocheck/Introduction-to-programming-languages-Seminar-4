@@ -43,3 +43,4 @@ int MultNums( int number)
 
 
 Console.WriteLine(MultNums(number));
+
