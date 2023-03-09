@@ -9,9 +9,10 @@
 
 int Prompt()
 {
-    Console.WriteLine("Введите число: ");
+    Console.WriteLine("Введите число, а я посчитаю сумму чисел от 1 до введенного числа: ");
     return Convert.ToInt32(Console.ReadLine());
 }
+
 
 
 int SumNums ( int number)
@@ -22,7 +23,7 @@ int SumNums ( int number)
     return sum;
 }
 
-int number = Prompt(); // int a = Prompt(); -- было так. что за a? что тогда такое number
+int number = Prompt();// int a = Prompt(); -- было так. что за a? что тогда такое number
 Console.WriteLine(SumNums(number)); // Console.WriteLine(SumNums(a));                                                                               
 
 
