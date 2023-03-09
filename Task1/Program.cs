@@ -29,3 +29,4 @@ Console.WriteLine(SumNums(number)); // Console.WriteLine(SumNums(a));
 
 // 54 минута
 
+
